@@ -1,6 +1,6 @@
 package main
 import "fmt"
 func beer() {
-	fmt.Println(" and two oatmeal stouts")
+	fmt.Println(" and a big glass of water")
 }
 
